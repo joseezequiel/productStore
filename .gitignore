@@ -1,0 +1,10 @@
+**/build/
+.idea
+
+/gradle
+.gradle
+# Ignorar archivos de configuración específicos
+gradle-wrapper.jar
+gradle-wrapper.properties
+gradlew
+gradlew.bat
