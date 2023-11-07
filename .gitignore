@@ -1,10 +1,17 @@
+# Ignorar archivos generados por el sistema de construcción de Gradle
 **/build/
-.idea
+/.idea
 
 /gradle
+
+# Ignorar archivos de configuración local (pueden variar según tus preferencias)
 .gradle
+
 # Ignorar archivos de configuración específicos
 gradle-wrapper.jar
 gradle-wrapper.properties
 gradlew
 gradlew.bat
+
+#ignorar el sprint1
+/sprint1/

@@ -1,4 +1,4 @@
-package casosDePrueba;
+package sprint1.casosDePrueba;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
